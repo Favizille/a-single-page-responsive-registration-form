@@ -1,0 +1,63 @@
+.container{
+    background-image:url('images/bg-intro-desktop.png');
+    background-color: rgb(235, 121, 113);
+    padding: 10%;
+    margin-left:3%; 
+    color:#fff;
+}
+
+body{
+    background-image:url('images/bg-intro-desktop.png');
+    background-color: rgb(235, 121, 113);
+}
+.main-text{
+   font-size: 2rem;
+}
+
+.text-section{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    padding-top: 100px;
+}
+
+.right-side{
+    margin-left:50px;
+    width: 400px;
+    padding-left: 10px;
+}
+
+.heading{
+   border:rgb(78, 51, 153) 1px solid;
+   border-radius: 10px;
+   padding:0 20px;
+   background-color: rgb(78, 51, 153);
+   width: 500px;
+   text-align: center;
+   padding-top: 12px;
+}
+
+.form-container{
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+input{
+    border-radius:10px;
+    border: #fff 1px none;
+}
+
+.btn{
+    width: 400px; 
+}
+
+#terms{
+    color:rgb(218, 99, 90);
+}
+.footer-text{
+    color: rgb(204, 194, 194);
+    /* width: 300px; */
+    font-size: small;
+}
